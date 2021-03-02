@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Punto
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Punto\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=x\ y
+comment1.target=Punto(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Punto\r\n
+comment2.params=x
+comment2.target=void\ setX(int)
+comment3.params=
+comment3.target=int\ getX()
+comment4.params=y
+comment4.target=void\ setY(int)
+comment5.params=
+comment5.target=int\ getY()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
