@@ -1,7 +1,13 @@
 #BlueJ class context
 comment0.target=Circulo
 comment0.text=\r\n\ Write\ a\ description\ of\ class\ Circulo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
-comment1.params=x\ y
-comment1.target=Circulo(int,\ int)
+comment1.params=x\ y\ radio
+comment1.target=Circulo(int,\ int,\ int)
 comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Circulo\r\n
-numComments=2
+comment2.params=r
+comment2.target=void\ setRadio(int)
+comment3.params=
+comment3.target=int\ getRadio()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
