@@ -16,7 +16,7 @@ public class Circulo extends Punto
     public Circulo(int x, int y, int radio)
     {
          //initialise instance variables
-         super(x, y);
+         super(x, y);           // Invocar al superconstructor o el cosntructor de mi superclase
          setRadio(radio);
     }
     
