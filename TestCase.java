@@ -8,14 +8,15 @@
 public class TestCase
 {
     // instance variables - replace the example below with your own
-
+    private final double PI = 3.14159;
+    
     /**
      * Constructor for objects of class TestCase
      */
     public TestCase()
     {
         // initialise instance variables
-
+        
     }
     
     public static void main(String args[])
